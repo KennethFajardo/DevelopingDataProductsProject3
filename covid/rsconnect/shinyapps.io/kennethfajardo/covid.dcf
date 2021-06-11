@@ -1,0 +1,11 @@
+name: covid
+title:
+username:
+account: kennethfajardo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4257801
+bundleId: 4704883
+url: https://kennethfajardo.shinyapps.io/covid/
+when: 1623410274.98127
+lastSyncTime: 1623410274.98127
