@@ -7,7 +7,7 @@ css: custom.css
 
 Overview
 ========================================================
-<span class="overview">This project demos a simple web app created in R. The app features a timeline of the COVID transmission and deaths for all countries as of *2021-06-09*. The data is download from </span>*Our World in Data's* [repository]("https://covid.ourworldindata.org/data/owid-covid-data.csv").
+<span class="overview">This project demos a simple web app created in R. The app features a timeline of the COVID transmission and deaths for all countries as of *2021-06-09*. The data is download from </span>*Our World in Data's* [repository](https://covid.ourworldindata.org/data/owid-covid-data.csv).
 <img class="owid" src="owid.png">
 
 COVID Data Summary
@@ -30,6 +30,6 @@ str(world.cities)
 
 Shiny Web App
 ========================================================
-The app has only two parts - a slider input and a leaflet widget. The slider is used to select the date of the data collection for total cases and total deaths. The app can be accessed [here]("https://kennethfajardo.shinyapps.io/covid/").
+The app has only two parts - a slider input and a leaflet widget. The slider is used to select the date of the data collection for total cases and total deaths. The app can be accessed [here](https://kennethfajardo.shinyapps.io/covid/).
 <img class="app" src="./app.png">
 
